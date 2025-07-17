@@ -3,8 +3,6 @@
 
 - 🌱 I coded a neural network from scratch **using only numpy and maths**
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **mahidh2005@gmail.com**
 
 - ⚡ Fun fact **I like cats**
