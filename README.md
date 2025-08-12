@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Dhiman</h1>
-- 🔭 I’m currently working on learning pytorch daily -> (https://github.com/mahidhiman12/pytorch)
+- 🔭 I’m currently working on deep learning -> (https://github.com/mahidhiman12/Deep_Learning_with_PyTorch)
 
 - 🌱 I coded a neural network from scratch **using only numpy and maths**
 
