@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mahidh2005@gmail.com**
 
-- ⚡ Fun fact **I like cats**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahidhiman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahidhiman12" height="30" width="40" /></a>
