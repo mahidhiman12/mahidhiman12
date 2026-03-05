@@ -40,7 +40,6 @@ Project:
 
 * Built end-to-end **deep learning TTS system**
 * Used **Tacotron2 + WaveGlow**
-* Achieved **MOS score of 4.2 / 5**
 * Optimized inference latency
 
 Demo:
