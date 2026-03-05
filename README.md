@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahi Dhiman</h1>
+<h1 align="center">Hi , I'm Mahi Dhiman</h1>
 <h3 align="center">Machine Learning • Deep Learning • Software Engineering</h3>
 
 <p align="center">
