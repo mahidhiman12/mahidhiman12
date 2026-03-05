@@ -3,12 +3,12 @@
 
 <p align="center">
 B.Tech IT @ Guru Gobind Singh Indraprastha University <br>
-🏆 Rank 1 in Branch (CGPA: 9.3)
+(CGPA: 9.3)
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 * I build **machine learning and deep learning systems**
 * Currently learning **deep learning and PyTorch**
@@ -18,7 +18,7 @@ B.Tech IT @ Guru Gobind Singh Indraprastha University <br>
 
 ---
 
-### 🔭 Current Work
+### Current Work
 
 * Deep Learning experiments with PyTorch
 * Model training, experiment tracking, and optimization
