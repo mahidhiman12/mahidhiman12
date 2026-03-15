@@ -67,7 +67,7 @@ https://huggingface.co/spaces/Mahii21/TTS-Tacotron2
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p>
 <a href="https://linkedin.com/in/mahidhiman12">LinkedIn</a> •
@@ -79,6 +79,6 @@ https://huggingface.co/spaces/Mahii21/TTS-Tacotron2
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+
 
 
