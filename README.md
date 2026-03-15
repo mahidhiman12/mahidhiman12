@@ -3,7 +3,7 @@
 
 <p align="center">
 B.Tech IT @ Guru Gobind Singh Indraprastha University <br>
-(CGPA: 9.3)
+
 </p>
 
 ---
