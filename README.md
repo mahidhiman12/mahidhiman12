@@ -24,7 +24,7 @@ B.Tech IT @ Guru Gobind Singh Indraprastha University <br>
 * Model training, experiment tracking, and optimization
 
 Project:
-👉 https://github.com/mahidhiman12/Deep_Learning_with_PyTorch
+https://github.com/mahidhiman12/Deep_Learning_with_PyTorch
 
 ---
 
